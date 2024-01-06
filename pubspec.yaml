@@ -55,88 +55,89 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/i1.jpg
-    - images/i2.jpg
-    - images/i3.jpg
-    - images/i4.jpg
-    - images/i5.jpg
-    - images/i6.png
-    - images/i7.png
-    - images/i8.png
-    - images/i9.png
-    - images/i10.png
-    - images/i11.png
-    - images/i12.png
-    - images/i13.png
-    - images/im1.jpg
-    - images/im2.jpg
-    - images/im3.jpg
-    - images/im4.jpg
-    - images/im5.jpg
-    - images/im6.jpg
-    - images/im7.jpg
-    - images/im8.jpg
-    - images/im9.jpg
-    - images/p1.jpg
-    - images/p2.jpg
-    - images/p3.jpg
-    - images/p4.jpg
-    - images/p5.jpg
-    - images/p6.jpg
-    - images/p7.jpg
-    - images/p8.jpg
-    - images/p9.jpg
-    - images/p10.jpg
-    - images/p11.jpg
-    - images/p12.jpg
-    - images/a1.jpg
-    - images/a2.jpg
-    - images/a3.jpg
-    - images/a4.jpg
-    - images/a5.jpg
-    - images/a6.jpg
-    - images/a7.jpg
-    - images/a8.jpg
-    - images/icon.png
-    - images/text.png
-    - images/map.png
-    - images/text1.png
-    - images/v1.png
-    - images/scanner.png
-    - images/as1.jpg
-    - images/as2.jpg
-    - images/as3.jpg
-    - images/as4.jpg
-    - images/as5.jpg
-    - images/as6.jpg
-    - images/as7.jpg
-    - images/as8.jpg
-    - images/as9.jpg
-    - images/as10.jpg
-    - images/as11.jpg
-    - images/as12.jpg
-    - images/as13.jpg
-    - images/as14.jpg
-    - images/as15.jpg
-    - images/as16.jpg
-    - images/as17.jpg
-    - images/as18.jpg
-    - images/l1.jpg
-    - images/l2.jpg
-    - images/l3.jpg
-    - images/l4.jpg
-    - images/l5.jpg
-    - images/l6.jpg
-    - images/m1.png
-    - images/m2.png
-    - images/m3.png
-    - images/m4.png
-    - images/m5.jpg
-    - images/d1.jpg
-    - images/d2.jpg
-    - images/v2.png
-    - images/v3.jpg
-    - images/ima.png
+  - images/
+    # - images/i1.jpg
+    # - images/i2.jpg
+    # - images/i3.jpg
+    # - images/i4.jpg
+    # - images/i5.jpg
+    # - images/i6.png
+    # - images/i7.png
+    # - images/i8.png
+    # - images/i9.png
+    # - images/i10.png
+    # - images/i11.png
+    # - images/i12.png
+    # - images/i13.png
+    # - images/im1.jpg
+    # - images/im2.jpg
+    # - images/im3.jpg
+    # - images/im4.jpg
+    # - images/im5.jpg
+    # - images/im6.jpg
+    # - images/im7.jpg
+    # - images/im8.jpg
+    # - images/im9.jpg
+    # - images/p1.jpg
+    # - images/p2.jpg
+    # - images/p3.jpg
+    # - images/p4.jpg
+    # - images/p5.jpg
+    # - images/p6.jpg
+    # - images/p7.jpg
+    # - images/p8.jpg
+    # - images/p9.jpg
+    # - images/p10.jpg
+    # - images/p11.jpg
+    # - images/p12.jpg
+    # - images/a1.jpg
+    # - images/a2.jpg
+    # - images/a3.jpg
+    # - images/a4.jpg
+    # - images/a5.jpg
+    # - images/a6.jpg
+    # - images/a7.jpg
+    # - images/a8.jpg
+    # - images/icon.png
+    # - images/text.png
+    # - images/map.png
+    # - images/text1.png
+    # - images/v1.png
+    # - images/scanner.png
+    # - images/as1.jpg
+    # - images/as2.jpg
+    # - images/as3.jpg
+    # - images/as4.jpg
+    # - images/as5.jpg
+    # - images/as6.jpg
+    # - images/as7.jpg
+    # - images/as8.jpg
+    # - images/as9.jpg
+    # - images/as10.jpg
+    # - images/as11.jpg
+    # - images/as12.jpg
+    # - images/as13.jpg
+    # - images/as14.jpg
+    # - images/as15.jpg
+    # - images/as16.jpg
+    # - images/as17.jpg
+    # - images/as18.jpg
+    # - images/l1.jpg
+    # - images/l2.jpg
+    # - images/l3.jpg
+    # - images/l4.jpg
+    # - images/l5.jpg
+    # - images/l6.jpg
+    # - images/m1.png
+    # - images/m2.png
+    # - images/m3.png
+    # - images/m4.png
+    # - images/m5.jpg
+    # - images/d1.jpg
+    # - images/d2.jpg
+    # - images/v2.png
+    # - images/v3.jpg
+    # - images/ima.png
 
 
     
